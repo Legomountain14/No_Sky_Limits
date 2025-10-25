@@ -1,6 +1,12 @@
 {
-    "pack": {
-        "pack_format": 48,
-        "description": "No Sky Limits: Made by Legomountain14"
-    }
+  "pack": {
+    "pack_format": 48,
+    "description": "No Sky Limits: Made by Legomountain14",
+    "supported_formats": [
+      48,
+      88
+    ],
+    "min_format": 48,
+    "max_format": 88
+  }
 }
